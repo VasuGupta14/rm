@@ -1,0 +1,6 @@
+name,date,amount_mm,description
+One event — 0 mm,1996-10-15,0,Synthetic comparison plan; actual AquaCrop outputs are in scenario_outputs/
+One event — 5 mm,1996-10-15,5,Synthetic comparison plan; actual AquaCrop outputs are in scenario_outputs/
+One event — 10 mm,1996-10-15,10,Synthetic comparison plan; actual AquaCrop outputs are in scenario_outputs/
+One event — 15 mm,1996-10-15,15,Synthetic comparison plan; actual AquaCrop outputs are in scenario_outputs/
+One event — 20 mm,1996-10-15,20,Synthetic comparison plan; actual AquaCrop outputs are in scenario_outputs/

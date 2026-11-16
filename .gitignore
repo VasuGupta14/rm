@@ -1,0 +1,18 @@
+# Runtime caches and local secrets
+**/__pycache__/
+*.py[cod]
+**/node_modules/
+**/.npm-cache/
+**/.env
+**/.env.*
+.env
+.env.*
+
+# Generated build and simulation outputs
+**/dist/
+**/build/
+Adaptive Irrigation Twin/scenario_outputs_auto/
+
+# OS metadata and duplicate extracted-project archive
+.DS_Store
+AgriTwin_Unified_main_rm.zip

@@ -1,0 +1,44 @@
+{
+  "profile": {
+    "fieldId": "DEMO-PAT-01",
+    "location": "Patancheru, Telangana, India (illustrative case)",
+    "crop": "Maize",
+    "planting": "1996-07-01",
+    "seasonEnd": "1996-11-09",
+    "area": "1.0",
+    "soil": "Loam (example profile)",
+    "rootDepth": "1.2",
+    "weatherSource": "Historical AquaCrop example weather \u2014 demo only"
+  },
+  "settings": {
+    "stressLimit": "5",
+    "waterLimit": "100"
+  },
+  "scenarios": [
+    {
+      "name": "One event \u2014 0 mm",
+      "date": "1996-10-15",
+      "amount": "0"
+    },
+    {
+      "name": "One event \u2014 5 mm",
+      "date": "1996-10-15",
+      "amount": "5"
+    },
+    {
+      "name": "One event \u2014 10 mm",
+      "date": "1996-10-15",
+      "amount": "10"
+    },
+    {
+      "name": "One event \u2014 15 mm",
+      "date": "1996-10-15",
+      "amount": "15"
+    },
+    {
+      "name": "One event \u2014 20 mm",
+      "date": "1996-10-15",
+      "amount": "20"
+    }
+  ]
+}
