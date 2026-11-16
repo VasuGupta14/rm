@@ -1,0 +1,20 @@
+Reference : Valenzano, Italy 23Nov07-19Jun08 - Data by Mediterranean Agronomic Institutes of Bari (IAMB)
+     3  : Monthly records (1=daily, 2=10-daily and 3=monthly data)
+     1  : First day of record (1, 11 or 21 for 10-day or 1 for months)
+     1  : First month of record
+  1901  : First year of record (1901 if not linked to a specific year)
+
+  Tmin (C)   TMax (C) 
+  =======================
+      5.66     14.13
+      4.72     14.36
+      6.03     17.40
+      9.64     20.13
+     12.70     24.32
+     15.42     26.81
+      0.00      0.00
+      0.00      0.00
+      0.00      0.00
+      0.00      0.00
+      9.49     15.52
+      4.34     11.52
